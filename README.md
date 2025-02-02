@@ -120,16 +120,26 @@ Before running the project, ensure you have the following installed:
 
 ## 🌄 Folder Structure
 
-
-Student Management System/
-│── src/main/java/com/luv3code/cruddemo/
-│   │── dao/StudentDAO.java
-│   │── dao/StudentDAOImp.java
-│   │── entity/Student.java
-│   │── CrudDemoApplication.java
-│── src/main/resources/application.properties
-│── pom.xml
-│── README.md
+```plaintext
+student-management-system/
+│
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── com/
+│   │           └── luv3code/
+│   │               └── cruddemo/
+│   │                   ├── dao/
+│   │                   │   ├── StudentDAO.java
+│   │                   │   └── StudentDAOImp.java
+│   │                   ├── entity/
+│   │                   │   └── Student.java
+│   │                   └── CrudDemoApplication.java
+│   └── resources/
+│       └── application.properties
+├── pom.xml
+└── README.md
+```
 
 
 
