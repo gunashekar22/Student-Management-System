@@ -121,7 +121,7 @@ Before running the project, ensure you have the following installed:
 ## 🌄 Folder Structure
 
 
-01-cruddemo-student/
+Student Management System/
 │── src/main/java/com/luv3code/cruddemo/
 │   │── dao/StudentDAO.java
 │   │── dao/StudentDAOImp.java
@@ -130,6 +130,7 @@ Before running the project, ensure you have the following installed:
 │── src/main/resources/application.properties
 │── pom.xml
 │── README.md
+
 
 
 ## 🏢 Deployment Guide
