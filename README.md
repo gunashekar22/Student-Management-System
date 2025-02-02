@@ -18,7 +18,7 @@ The **Student Management System** is a Spring Boot-based application designed to
 - **Spring Data JPA** (Hibernate)
 - **MySQL** (Database)
 - **Maven** (Dependency Management)
-- **Lombok** (Optional for reducing boilerplate code)
+
 
 ## 💡 Prerequisites
 
